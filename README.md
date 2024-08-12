@@ -7,12 +7,12 @@ This project is an Excel-based analysis of coffee sales data. It includes severa
 
 The `Dashboard` sheet contains the following visualizations:
 
-### 1. Total Sales Over the Years
+### 1. Total Sales Over Time
 ![Total Sales Over the Years](https://github.com/amirhoseinReal/excel-project-coffee-sales-main/blob/main/TopSales.png)
 
 This chart shows how total sales have evolved over different times, helping to identify growth trends and seasonal patterns.
 
-### 2. Customers by Country
+### 2. Sales by Country
 ![Customers by Country](https://github.com/amirhoseinReal/excel-project-coffee-sales-main/blob/main/Top_Countries.png)
 
 This bar chart displays the distribution of customers across different countries, highlighting the regions.
