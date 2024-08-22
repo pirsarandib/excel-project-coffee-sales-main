@@ -4,6 +4,7 @@
 This project is an Excel-based analysis of coffee sales data. It includes several sheets that break down sales by customer, product, and country. The data is organized to help identify trends and key performance metrics in coffee sales over different periods  The data has been  cleaned and analyzed using  Excel functions, including XLOOKUP, INDEX and MATCH, Pivot Tables, and various other formulas
 
 ## Dashboard Visualizations
+![Total Sales Over the Years](https://github.com/amirhoseinReal/excel-project-coffee-sales-main/blob/main/dashbord.jpg)
 
 The `Dashboard` sheet contains the following visualizations:
 
