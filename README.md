@@ -4,21 +4,21 @@
 This project is an Excel-based analysis of coffee sales data. It includes several sheets that break down sales by customer, product, and country. The data is organized to help identify trends and key performance metrics in coffee sales over different periods  The data has been  cleaned and analyzed using  Excel functions, including XLOOKUP, INDEX and MATCH, Pivot Tables, and various other formulas
 
 ## Dashboard Visualizations
-![Total Sales Over the Years](https://github.com/amirhoseinReal/excel-project-coffee-sales-main/blob/main/dashbord.jpg)
+![Total Sales Over the Years](https://github.com/pirsarandib/excel-project-coffee-sales-main/blob/main/dashbord.jpg)
 
 The `Dashboard` sheet contains the following visualizations:
 
 ### 1. Total Sales Over Time
-![Total Sales Over the Years](https://github.com/amirhoseinReal/excel-project-coffee-sales-main/blob/main/Total_Sales.png)
+![Total Sales Over the Years](https://github.com/pirsarandib/excel-project-coffee-sales-main/blob/main/Total_Sales.png)
 
 This chart shows how total sales have evolved over different times, helping to identify growth trends and seasonal patterns.
 
 ### 2. Sales by Country
-![Customers by Country](https://github.com/amirhoseinReal/excel-project-coffee-sales-main/blob/main/Sales_by_Countries.png)
+![Customers by Country](https://github.com/pirsarandib/excel-project-coffee-sales-main/blob/main/Sales_by_Countries.png)
 
 This bar chart displays the distribution of customers across different countries, highlighting the regions.
 ### 3. Top 5 Customers
-![Top 5 Customers](https://github.com/amirhoseinReal/excel-project-coffee-sales-main/blob/main/Top_Five_Customers.png)
+![Top 5 Customers](https://github.com/pirsarandib/excel-project-coffee-sales-main/blob/main/Top_Five_Customers.png)
 
 This bar chart lists the top 5 customers by total sales, providing insight into the most valuable customers.
 
